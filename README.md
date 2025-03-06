@@ -43,6 +43,7 @@ Beyond work, you'll find me on the trails 🚵‍♂️ downhill mountain biking
 ## 📫 Connect
 
 - 🌐 [Personal Website](https://joshjacobs.net)
+- 📝 [Blog](https://dangerous.tech)
 - 📧 [Email](mailto:josh@joshjacobs.net)
 - 💼 [LinkedIn](https://linkedin.com/in/josh-jacobs)
 
