@@ -22,7 +22,7 @@ Beyond work, you'll find me on the trails 🚵‍♂️ downhill mountain biking
 
 ## 🛠️ Tech Stack
 
-- **Infrastructure**: Kubernetes, FluxCD, TrueNAS
+- **Infrastructure**: Kubernetes, FluxCD, Proxmox, TrueNAS
 - **Monitoring**: Grafana, Prometheus, NetData, UptimeKuma
 - **Storage**: TrueNAS - 1 x RAIDZ2 | 8 wide | 7.28 TiB - 41.26 TiB Usable
 - **Security**: Unifi, Fortigate, Traefik, LetsEncrypt
